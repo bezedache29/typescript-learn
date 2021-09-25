@@ -1,4 +1,4 @@
-# TypeScript
+# TypeScript Learn
 
 ## Installation
 npm i -g typescript
